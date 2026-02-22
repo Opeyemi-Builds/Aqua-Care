@@ -13,6 +13,7 @@ The system is decoupled into three main layers:
 ### 1. The Edge (Hardware & Telemetry)
 * **Microcontroller:** ESP32 (Programmed in C++)
 * **Sensors:** DHT11 (Temperature/Humidity), Capacitive Soil Moisture Sensor, Ultrasonic Sensor (Reservoir level).
+* **Actuator:** 1 single pump
 * **Data Pipeline:** The ESP32 continuously polls the sensors, serializes the readings into a structured JSON payload, and pushes the data to the backend via HTTP POST requests.
 
 ### 2. The Brain (Backend API)
