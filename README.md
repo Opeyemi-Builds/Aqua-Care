@@ -71,6 +71,10 @@ uvicorn main:app --reload
 5.Expose via ngrok
 ngrok http 8000
 
-### TEAM
-1.ALEGBELEYE OPEYEMI MICHEAL - System Architecture, Backend Engineering,Edge programming
-2.OYEBISI HAKEEM - Hardware and Firmware Engineer
+## The Team
+
+* **[ALEGBELEYE OPEYEMI MICHEAL](https://github.com/Opeyemi-Builds)** - System Architecture, Backend ENGINEERING & ESP32 Integration
+  * [www.linkedin.com/in/opeyemi-alegbeleye-110891363]
+
+* **[Hakeem Oyebisi]** - Hardware & Firmware Engineering
+  * [[Connect on LinkedIn](https://www.linkedin.com/in/hakeem-oyebisi-42b9a1333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
