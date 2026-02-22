@@ -73,7 +73,7 @@ ngrok http 8000
 
 ## The Team
 
-* **ALEGBELEYE OPEYEMI MICHEAL** - System Architecture, Backend ENGINEERING & ESP32 Integration [https://github.com/Opeyemi-Builds] 
+* **ALEGBELEYE OPEYEMI MICHEAL** - System Architecture, Backend Engineering & ESP32 Integration [https://github.com/Opeyemi-Builds] 
   * [www.linkedin.com/in/opeyemi-alegbeleye-110891363]
 
 * **Hakeem Oyebisi** - Hardware & Firmware Engineering
