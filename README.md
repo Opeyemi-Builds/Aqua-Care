@@ -51,7 +51,7 @@ Follow these steps to run the backend and dashboard locally.
 
 1. Clone the Repository
 
-git clone [https://github.com/YourUsername/AquaCare-Smart-Farm.git](https://github.com/Opeyemi-Builds/Aqua_Care.git)
+git clone [https://github.com/Opeyemi-Builds/Aqua_Care.git]
    
 
 2. Setup the virtual environment
